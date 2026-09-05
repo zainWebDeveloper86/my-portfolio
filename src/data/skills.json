@@ -1,0 +1,84 @@
+[
+  {
+    "category": "programming-languages",
+    "items": [
+      { "name": "JavaScript", "icon": "SiJavascript" },
+      { "name": "TypeScript", "icon": "SiTypescript" },
+      { "name": "Python", "icon": "SiPython" },
+      { "name": "PHP", "icon": "SiPhp" },
+      { "name": "C++", "icon": "TbBrandCpp" }
+    ]
+  },
+  {
+    "category": "frontend",
+    "items": [
+      { "name": "React", "icon": "SiReact" },
+      { "name": "Next.js", "icon": "SiNextdotjs" },
+      { "name": "TypeScript", "icon": "SiTypescript" },
+      { "name": "JavaScript", "icon": "SiJavascript" },
+      { "name": "Redux Toolkit", "icon": "TbBrandRedux" },
+      { "name": "Tailwind CSS", "icon": "SiTailwindcss" },
+      { "name": "Bootstrap", "icon": "SiBootstrap" },
+      { "name": "HTML5", "icon": "SiHtml5" },
+      { "name": "CSS3", "icon": "SiCss3" }
+    ]
+  },
+  {
+    "category": "backend",
+    "items": [
+      { "name": "Node.js", "icon": "SiNodedotjs" },
+      { "name": "Express.js", "icon": "SiExpress" },
+      { "name": "FastAPI", "icon": "SiFastapi" },
+      { "name": "Python", "icon": "SiPython" },
+      { "name": "PHP", "icon": "SiPhp" },
+      { "name": "REST APIs", "icon": "TbApi" }
+    ]
+  },
+  {
+    "category": "databases",
+    "items": [
+      { "name": "MongoDB", "icon": "SiMongodb" },
+      { "name": "SQLite", "icon": "SiSqlite" },
+      { "name": "PostgreSQL", "icon": "SiPostgresql" },
+      { "name": "SQL", "icon": "TbBrandMysql" },
+      { "name": "Firebase", "icon": "IoLogoFirebase" },
+      { "name": "Appwrite", "icon": "SiAppwrite" }
+    ]
+  },
+  {
+    "category": "devops",
+    "items": [
+      { "name": "AWS", "icon": "FaAws" },
+      { "name": "Docker", "icon": "SiDocker" },
+      { "name": "GitHub Actions", "icon": "SiGithubactions" },
+      { "name": "CI/CD", "icon": "TbInfinity" },
+      { "name": "Kubernetes", "icon": "SiKubernetes" },
+      { "name": "Vercel", "icon": "SiVercel" },
+      { "name": "Netlify", "icon": "SiNetlify" },
+      { "name": "Railway", "icon": "SiRailway" }
+    ]
+  },
+  {
+    "category": "tools",
+    "items": [
+      { "name": "Git", "icon": "SiGit" },
+      { "name": "GitHub", "icon": "SiGithub" },
+      { "name": "Postman", "icon": "SiPostman" },
+      { "name": "Cloudinary", "icon": "SiCloudinary" },
+      { "name": "Socket.IO", "icon": "SiSocketdotio" },
+      { "name": "Mongoose", "icon": "SiMongoose" },
+      { "name": "Prisma", "icon": "SiPrisma" },
+      { "name": "Open-Meteo API", "icon": "TbCloudDataConnection" }
+    ]
+  },
+  {
+    "category": "other",
+    "items": [
+      { "name": "JWT Authentication", "icon": "SiJsonwebtokens" },
+      { "name": "Google OAuth", "icon": "SiGoogle" },
+      { "name": "Real-time Communication", "icon": "TbBroadcast" },
+      { "name": "Prophet Model", "icon": "TbChartLine" },
+      { "name": "Time Series Forecasting", "icon": "TbTimeline" }
+    ]
+  }
+]

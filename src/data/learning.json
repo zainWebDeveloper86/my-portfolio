@@ -1,0 +1,21 @@
+{
+  "intro": "I'm currently spending more time on the parts of development that come after writing the application — containers, deployment, automation, and backend systems.",
+  "groups": [
+    {
+      "category": "devops",
+      "items": ["Docker", "GitHub Actions", "CI/CD", "Kubernetes"]
+    },
+    {
+      "category": "backend",
+      "items": ["FastAPI", "Python", "PostgreSQL"]
+    },
+    {
+      "category": "cloud & deployment",
+      "items": ["Containerization", "Deployment automation", "Cloud workflows"]
+    },
+    {
+      "category": "data & ML",
+      "items": ["Prophet", "Time series forecasting", "Weather data"]
+    }
+  ]
+}

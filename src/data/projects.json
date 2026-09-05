@@ -1,0 +1,102 @@
+[
+    {
+    "id": "slabguard",
+    "title": "SlabGuard",
+    "tag": "AI-powered electricity bill prediction & slab-shock alert system",
+    "status": "MERN Stack \u00b7 In Progress",
+    "description": "SlabGuard helps Pakistani electricity consumers (MEPCO) avoid unexpected bill spikes caused by the progressive slab tariff system, where crossing a unit threshold retroactively raises the rate on the entire bill \u2014 not just the extra units. It tracks live usage through an IoT data pipeline, forecasts month-end consumption using the Prophet model, and warns users before they cross a slab, quantifying exactly how much a behavior change would save.",
+    "role": "I'm building the application with the MERN stack, with a separate Python and FastAPI microservice handling the forecasting layer. The project covers the full flow from ingesting usage data, scraping real billing history, calculating slab-based bills, forecasting future consumption, and presenting everything through a web dashboard.",
+    "tech": [
+      "React",
+      "React Router",
+      "Context API",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Mongoose",
+      "Cloudinary",
+      "Python",
+      "FastAPI",
+      "Prophet",
+      "Puppeteer",
+      "Open-Meteo API",
+      "JWT"
+    ],
+    "highlights": [
+      "Rule-based slab billing engine",
+      "Puppeteer-based MEPCO bill history scraping",
+      "IoT usage pipeline (hourly ingestion \u2192 daily aggregation)",
+      "Bill forecasting using Prophet",
+      "Admin panel for tariff management",
+      "User authentication",
+      "Connecting the MERN application with the Python prediction service"
+    ],
+    "liveUrl": "https://zainwebdeveloper86.github.io/Todo-App/",
+    "repoUrl": "https://github.com/zainWebDeveloper86/slabguard"
+  },
+  {
+    "id": "sahiwal-electronics",
+    "title": "Sahiwal Electronics",
+    "tag": "Multi-vendor e-commerce platform",
+    "status": "MERN Stack \u00b7 Finished",
+    "description": "Sahiwal Electronics is a multi-vendor e-commerce platform where sellers can create shops, manage products and orders, and communicate with buyers. Buyers can browse products, manage their cart and wishlist, place orders, and chat with sellers. An admin panel handles users, sellers, products, orders, and withdrawals.",
+    "role": "I worked on the application across the frontend and backend, including authentication, role-based access, product management, orders, real-time chat, and deployment.",
+    "tech": [
+      "React",
+      "Redux Toolkit",
+      "Tailwind CSS",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Socket.IO",
+      "Cloudinary",
+      "JWT",
+      "Google OAuth"
+    ],
+    "highlights": [
+      "Multi-vendor seller and buyer system",
+      "Buyer, seller, and admin roles",
+      "Real-time chat with Socket.IO",
+      "JWT and Google OAuth authentication",
+      "Product, cart, wishlist, and order management",
+      "Coupon and withdrawal systems",
+      "Responsive frontend",
+      "Frontend deployed on Vercel and backend on Railway"
+    ],
+    "liveUrl": "https://sahiwal-electronics.vercel.app",
+    "repoUrl": "https://github.com/zainWebDeveloper86/sahiwal-electronics"
+  },
+  {
+    "id": "contact-app",
+    "title": "Contact Management App",
+    "tag": "Full-stack contact management application",
+    "status": "MERN Stack \u00b7 Finished",
+    "description": "Contact Management App is a full-stack MERN application that allows authenticated users to manage their personal contacts. Users can register and log in securely, add contacts with profile images, update or delete existing contacts, and quickly find contacts using search and pagination.",
+    "role": "I worked on the application across the frontend and backend, including authentication, protected routes, contact CRUD operations, image uploads, search, pagination, API integration, and deployment.",
+    "tech": [
+      "React",
+      "React Router",
+      "Context API",
+      "Bootstrap",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Mongoose",
+      "Axios",
+      "Multer",
+      "JWT"
+    ],
+    "highlights": [
+      "JWT-based user authentication",
+      "Protected routes and user-specific contacts",
+      "Complete contact CRUD functionality",
+      "Search and pagination",
+      "Profile image upload and management",
+      "REST API with Express and MongoDB",
+      "Responsive Bootstrap frontend",
+      "Frontend and backend deployment"
+    ],
+    "liveUrl": "https://contact-app-zain.vercel.app/login",
+    "repoUrl": "https://github.com/zainWebDeveloper86/mern-contact-app"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "slabguard-fyp",
+    "role": "Final Year Project — SlabGuard",
+    "company": "",
+    "companyUrl": "",
+    "startDate": "2026",
+    "endDate": "Present",
+    "summary": "Developing an AI-powered electricity bill prediction system as part of my Computer Science degree.",
+    "points": [
+      "Building the web application with the MERN stack",
+      "Developing the forecasting service with Python and FastAPI",
+      "Integrating weather data through Open-Meteo as a forecasting input",
+      "Working with the Prophet model for time series forecasting of monthly usage",
+      "Building a Puppeteer-based scraper to sync real billing history from the MEPCO web portal",
+      "Designing an IoT-ready pipeline for hourly usage ingestion and daily aggregation",
+      "Connecting the data, prediction, and web application layers"
+    ]
+  },
+  {
+    "id": "devweekends",
+    "role": "DevWeekends Fellowship",
+    "company": "DevWeekends",
+    "companyUrl": "https://www.devweekends.com/",
+    "startDate": "jun 2026",
+    "endDate": "Present",
+    "summary": "Participated in a structured software development fellowship focused on practical engineering and building projects.",
+    "points": [
+      "Built Sahiwal Electronics as a full-stack project",
+      "Worked through frontend, backend, database, and deployment tasks",
+      "Took part in engineering sessions and project reviews",
+      "Received feedback and mentorship from experienced developers"
+    ]
+  },
+  {
+    "id": "internship",
+    "role": "Frontend Developer Intern",
+    "company": "Epicsols",
+    "companyUrl": "https://epicsols.com/",
+    "startDate": "Jul 2025",
+    "endDate": "Sep 2025",
+    "summary": "Developed responsive web applications and collaborated with a cross-functional team during a 3-month internship.",
+    "points": [
+      "Built responsive UIs for 2-3 major projects using HTML5, CSS3, JavaScript, and Bootstrap.",
+      "Translated Figma designs into pixel-perfect, maintainable front-end code.",
+      "Collaborated with senior developers to solve technical challenges and ensure timely delivery.",
+      "Learned production workflows and improved professional communication skills."
+    ]
+  }
+]

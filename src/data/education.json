@@ -1,0 +1,18 @@
+[
+  {
+    "id": "bscs",
+    "degree": "Bachelor of Science in Computer Science",
+    "institution": "University in Sahiwal, Pakistan",
+    "startDate": "2023",
+    "endDate": "2027",
+    "note": "Currently in final year"
+  },
+  {
+    "id": "intermediate",
+    "degree": "F.Sc Pre-Engineering",
+    "institution": "Govt. Graduate College Sahiwal, Pakistan",
+    "startDate": "2020",
+    "endDate": "2022",
+    "note": "Passed"
+  }
+]
