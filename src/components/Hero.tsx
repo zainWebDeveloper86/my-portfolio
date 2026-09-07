@@ -30,7 +30,7 @@ export default function Hero() {
           <p className="mb-5 font-mono text-sm text-muted">
             {config.handle}@dev:~$ whoami
           </p>
-          <div className="text-4xl font-semibold leading-tight text-accent md:text-5xl">
+          {/* <div className="text-4xl font-semibold leading-tight text-accent md:text-5xl">
             <ReactTyped
               strings={[
                 "Zain Ul Abidin",
@@ -44,7 +44,11 @@ export default function Hero() {
               loop
               // className="text-accent"
             />
-          </div>
+          </div> */}
+          <h1 className="text-4xl font-semibold leading-tight text-foreground md:text-5xl">
+            {config.name}
+          </h1>
+          <p className="mt-2 text-lg text-muted">{config.title}</p>
           <p className="mt-6 text-base leading-relaxed text-foreground/85 md:text-lg">
             {config.heroLine}
           </p>

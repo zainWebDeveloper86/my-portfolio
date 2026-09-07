@@ -10,10 +10,6 @@
       "items": ["FastAPI", "Python", "PostgreSQL"]
     },
     {
-      "category": "cloud & deployment",
-      "items": ["Containerization", "Deployment automation", "Cloud workflows"]
-    },
-    {
       "category": "data & ML",
       "items": ["Prophet", "Time series forecasting", "Weather data"]
     }

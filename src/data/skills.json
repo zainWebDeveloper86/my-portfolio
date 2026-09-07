@@ -12,15 +12,12 @@
   {
     "category": "frontend",
     "items": [
+      { "name": "JavaScript", "icon": "SiJavascript" },
       { "name": "React", "icon": "SiReact" },
       { "name": "Next.js", "icon": "SiNextdotjs" },
-      { "name": "TypeScript", "icon": "SiTypescript" },
-      { "name": "JavaScript", "icon": "SiJavascript" },
       { "name": "Redux Toolkit", "icon": "TbBrandRedux" },
       { "name": "Tailwind CSS", "icon": "SiTailwindcss" },
-      { "name": "Bootstrap", "icon": "SiBootstrap" },
-      { "name": "HTML5", "icon": "SiHtml5" },
-      { "name": "CSS3", "icon": "SiCss3" }
+      { "name": "Bootstrap", "icon": "SiBootstrap" }
     ]
   },
   {
@@ -28,19 +25,19 @@
     "items": [
       { "name": "Node.js", "icon": "SiNodedotjs" },
       { "name": "Express.js", "icon": "SiExpress" },
-      { "name": "FastAPI", "icon": "SiFastapi" },
       { "name": "Python", "icon": "SiPython" },
       { "name": "PHP", "icon": "SiPhp" },
-      { "name": "REST APIs", "icon": "TbApi" }
+      { "name": "REST APIs", "icon": "TbApi" },
+      { "name": "FastAPI", "icon": "SiFastapi" }
     ]
   },
   {
     "category": "databases",
     "items": [
       { "name": "MongoDB", "icon": "SiMongodb" },
+      { "name": "SQL", "icon": "TbBrandMysql" },
       { "name": "SQLite", "icon": "SiSqlite" },
       { "name": "PostgreSQL", "icon": "SiPostgresql" },
-      { "name": "SQL", "icon": "TbBrandMysql" },
       { "name": "Firebase", "icon": "IoLogoFirebase" },
       { "name": "Appwrite", "icon": "SiAppwrite" }
     ]
@@ -69,16 +66,6 @@
       { "name": "Mongoose", "icon": "SiMongoose" },
       { "name": "Prisma", "icon": "SiPrisma" },
       { "name": "Open-Meteo API", "icon": "TbCloudDataConnection" }
-    ]
-  },
-  {
-    "category": "other",
-    "items": [
-      { "name": "JWT Authentication", "icon": "SiJsonwebtokens" },
-      { "name": "Google OAuth", "icon": "SiGoogle" },
-      { "name": "Real-time Communication", "icon": "TbBroadcast" },
-      { "name": "Prophet Model", "icon": "TbChartLine" },
-      { "name": "Time Series Forecasting", "icon": "TbTimeline" }
     ]
   }
 ]
