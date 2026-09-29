@@ -43,7 +43,7 @@ export default function Header() {
       <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-4">
         <Link
           href="/"
-          className="font-mono text-lg text-foreground font-bold"
+          className="font-mono text-lg text-foreground font-bold select-none"
           onClick={handleLogoClick}
         >
           {config.name}<span className="text-accent">.</span>
