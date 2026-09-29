@@ -2,6 +2,8 @@ import Link from "next/link";
 import { TbExternalLink } from "react-icons/tb";
 import { IoDocumentTextOutline } from "react-icons/io5";
 import projects from "@/data/projects.json";
+import { FiArrowUpRight } from "react-icons/fi";
+import config from "@/data/config.json"
 
 export default function Projects() {
   return (
@@ -70,6 +72,22 @@ export default function Projects() {
             </div>
           </article>
         ))}
+      </div>
+
+      {/* See More Projects Button */}
+      <div className="mt-12 flex justify-center">
+        <a
+          href={`${config.contact.github}?tab=repositories`}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="group inline-flex items-center gap-2 rounded-md border border-border px-6 py-3 text-sm font-medium text-foreground transition-all hover:border-accent hover:text-accent"
+        >
+          Explore more on GitHub
+          <FiArrowUpRight
+            size={16}
+            className="transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5"
+          />
+        </a>
       </div>
     </section>
   );

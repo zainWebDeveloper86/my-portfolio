@@ -1,6 +1,7 @@
 import type { IconType } from "react-icons";
 import { FaAws } from "react-icons/fa6";
 import { IoLogoFirebase } from "react-icons/io5";
+import { RiWebhookFill } from "react-icons/ri";
 
 import {
   SiReact,
@@ -35,6 +36,10 @@ import {
   SiPostman,
   SiPrisma,
   SiSqlite,
+  SiZod,
+  SiReacthookform,
+  SiSupabase,
+  SiShadcnui
 } from "react-icons/si";
 import {
   TbApi,
@@ -51,6 +56,8 @@ import {
 } from "react-icons/tb";
 
 const iconMap: Record<string, IconType> = {
+  SiSupabase,
+  SiReacthookform,
   SiPrisma,
   SiSqlite,
   TbBrandCpp,
@@ -62,6 +69,7 @@ const iconMap: Record<string, IconType> = {
   IoLogoFirebase,
   SiAppwrite,
   SiReact,
+  SiZod,
   SiNextdotjs,
   SiTypescript,
   SiJavascript,
@@ -95,6 +103,8 @@ const iconMap: Record<string, IconType> = {
   TbBroadcast,
   TbChartLine,
   TbTimeline,
+  RiWebhookFill,
+  SiShadcnui
 };
 export function getIcon(name: string): IconType {
   return iconMap[name] ?? TbCode;

@@ -1,5 +1,40 @@
 [
-    {
+  {
+    "id": "pulse",
+    "title": "Pulse",
+    "tag": "Full-stack social platform with real-time interactions",
+    "status": "Next.js · In Progress",
+    "description": "Pulse is a full-stack social platform inspired by Threads, where users can share short posts, engage in nested conversations, and build communities around shared interests. Built with Next.js 16 App Router, it features real-time updates, secure authentication, and a modern dark-mode-first UI.",
+    "role": "I designed and built the entire application — from the database schema and authentication flow to the UI components and production deployment. The project follows a feature-based architecture with Server Actions for mutations, Prisma for type-safe database access, and Clerk for authentication.",
+    "tech": [
+      "Next.js 16",
+      "React 19",
+      "TypeScript",
+      "Tailwind CSS",
+      "Prisma",
+      "PostgreSQL",
+      "Supabase",
+      "Clerk",
+      "Webhooks",
+      "Zod",
+      "React Hook Form",
+      "Shadcn UI"
+    ],
+    "highlights": [
+      "Next.js 16 App Router with React Server Components",
+      "Fully deployed on Vercel with Prisma + Supabase",
+      "Clerk authentication with webhook-based user sync",
+      "Nested comments with self-referencing Prisma relations",
+      "Server Actions for type-safe mutations",
+      "Community creation and member management",
+      "Real-time activity feed and notifications",
+      "Image uploads via Supabase Storage",
+      "Feature-based folder architecture"
+    ],
+    "liveUrl": "https://pulse-next-app.vercel.app",
+    "repoUrl": "https://github.com/zainWebDeveloper86/Pulse"
+  },
+  {
     "id": "slabguard",
     "title": "SlabGuard",
     "tag": "AI-powered electricity bill prediction & slab-shock alert system",
@@ -65,38 +100,5 @@
     ],
     "liveUrl": "https://sahiwal-electronics.vercel.app",
     "repoUrl": "https://github.com/zainWebDeveloper86/sahiwal-electronics"
-  },
-  {
-    "id": "contact-app",
-    "title": "Contact Management App",
-    "tag": "Full-stack contact management application",
-    "status": "MERN Stack \u00b7 Finished",
-    "description": "Contact Management App is a full-stack MERN application that allows authenticated users to manage their personal contacts. Users can register and log in securely, add contacts with profile images, update or delete existing contacts, and quickly find contacts using search and pagination.",
-    "role": "I worked on the application across the frontend and backend, including authentication, protected routes, contact CRUD operations, image uploads, search, pagination, API integration, and deployment.",
-    "tech": [
-      "React",
-      "React Router",
-      "Context API",
-      "Bootstrap",
-      "Node.js",
-      "Express",
-      "MongoDB",
-      "Mongoose",
-      "Axios",
-      "Multer",
-      "JWT"
-    ],
-    "highlights": [
-      "JWT-based user authentication",
-      "Protected routes and user-specific contacts",
-      "Complete contact CRUD functionality",
-      "Search and pagination",
-      "Profile image upload and management",
-      "REST API with Express and MongoDB",
-      "Responsive Bootstrap frontend",
-      "Frontend and backend deployment"
-    ],
-    "liveUrl": "https://contact-app-zain.vercel.app/login",
-    "repoUrl": "https://github.com/zainWebDeveloper86/mern-contact-app"
   }
 ]
