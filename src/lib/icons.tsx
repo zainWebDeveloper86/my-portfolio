@@ -1,5 +1,5 @@
 import type { IconType } from "react-icons";
-import { FaAws } from "react-icons/fa6";
+import { FaAws, FaServer, FaCloud, FaChartLine } from "react-icons/fa6";
 import { IoLogoFirebase } from "react-icons/io5";
 import { RiWebhookFill } from "react-icons/ri";
 
@@ -104,7 +104,8 @@ const iconMap: Record<string, IconType> = {
   TbChartLine,
   TbTimeline,
   RiWebhookFill,
-  SiShadcnui
+  SiShadcnui,
+  FaServer, FaCloud, FaChartLine
 };
 export function getIcon(name: string): IconType {
   return iconMap[name] ?? TbCode;

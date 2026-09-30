@@ -30,13 +30,13 @@ export default function Hero() {
           <p className="mb-5 font-mono text-sm text-muted">
             {config.handle}@dev:~$ whoami
           </p>
-          {/* <div className="text-4xl font-semibold leading-tight text-accent md:text-5xl">
+          <h1 className="text-4xl font-semibold leading-tight text-foreground md:text-5xl">
+            {config.name}
+          </h1>
+          <div className="mt-2 text-lg text-muted">
             <ReactTyped
               strings={[
-                "Zain Ul Abidin",
-                "Aspiring Software Engineer",
-                "Full-Stack Developer",
-                "DevOps Learner!"
+                config.title,
               ]}
               typeSpeed={50}
               backSpeed={30}
@@ -44,11 +44,8 @@ export default function Hero() {
               loop
               // className="text-accent"
             />
-          </div> */}
-          <h1 className="text-4xl font-semibold leading-tight text-foreground md:text-5xl">
-            {config.name}
-          </h1>
-          <p className="mt-2 text-lg text-muted">{config.title}</p>
+          </div>
+          {/* <p className="mt-2 text-lg text-muted">{config.title}</p> */}
           <p className="mt-6 text-base leading-relaxed text-foreground/85 md:text-lg">
             {config.heroLine}
           </p>

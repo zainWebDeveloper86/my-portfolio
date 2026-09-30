@@ -1,15 +1,14 @@
 {
   "name": "Zain Ul Abidin",
   "handle": "zain",
-  "title": "Full-Stack Software Engineer",
+  "title": "Aspiring Full Stack Software Engineer",
   "location": "Sahiwal, Pakistan",
-  "heroLine": "I build web applications with React, Node.js, Next.js, TypeScript, and MongoDB. I'm also learning DevOps, with a focus on Docker, CI/CD, and Kubernetes.",
+  "heroLine": "I build production-grade web applications with Next.js, TypeScript, and PostgreSQL, along with the MERN stack for full-stack JavaScript projects. I'm also working with DevOps — Docker, CI/CD, and cloud deployment.",
   "bio": [
-    "Hi 👋, I'm Zain Ul Abidin, a Computer Science student and full-stack software engineer. I build web applications using React, Node.js, Next.js, TypeScript, and MongoDB, and I enjoy working across both the frontend and backend.",
-    "I started with frontend development and gradually moved into APIs, authentication, databases, and real-time features. One of my main projects is Sahiwal Electronics, a multi-vendor e-commerce platform where I worked on user roles, product management, orders, real-time chat, and deployment.",
-    "I'm currently in my final year of Computer Science and working on my Final Year Project, SlabGuard. It combines the MERN stack with Python, FastAPI, and the Prophet model to predict electricity bills and warn users before they cross MEPCO's tariff slab thresholds.",
-    "Alongside development, I'm learning more about DevOps and how applications are deployed and maintained. Right now, I'm working with Docker, GitHub Actions, CI/CD, and Kubernetes.",
-    "Most of my learning comes from building projects and solving problems along the way. I'm always looking to improve, work on useful software, and learn from people with more experience."
+    "Hi 👋, I'm Zain Ul Abidin, a final-year Computer Science student and full-stack software engineer. I build web applications with Next.js, TypeScript, Prisma, and PostgreSQL, and I also work with the MERN stack. I enjoy working across both the frontend and backend.",
+    "I've built projects including Pulse — a Threads-inspired social platform using Next.js App Router with Clerk authentication, Supabase Storage, and self-referencing Prisma relations. I also built Sahiwal Electronics, a multi-vendor e-commerce platform with buyer/seller/admin roles, real-time chat using Socket.IO, and JWT + Google OAuth. Currently, I'm working on SlabGuard, my Final Year Project that combines the MERN stack with Python, FastAPI, and and Prophet (by Meta).",
+    "Alongside development, I'm also working with DevOps — Docker, GitHub Actions, CI/CD pipelines, and learning Kubernetes. I care about how applications are deployed, monitored, and maintained, not just how they're built.",
+    "Most of my learning comes from building real projects and solving problems along the way. I'm always looking to improve, contribute to useful software, and learn from people with more experience."
   ],
   "nav": [
     { "label": "About", "href": "#about" },

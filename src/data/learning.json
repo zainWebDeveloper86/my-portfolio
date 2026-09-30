@@ -1,17 +1,17 @@
 {
-  "intro": "I'm currently spending more time on the parts of development that come after writing the application — containers, deployment, automation, and backend systems.",
+  "intro": "Right now, I'm going deeper into the parts of development that come after the code, how apps are containerized, deployed, automated, and scaled. I'm also exploring Python-based backend systems and time-series forecasting.",
   "groups": [
     {
-      "category": "devops",
-      "items": ["Docker", "GitHub Actions", "CI/CD", "Kubernetes"]
-    },
-    {
-      "category": "backend",
+      "category": "Backend & APIs",
       "items": ["FastAPI", "Python", "PostgreSQL"]
     },
     {
-      "category": "data & ML",
-      "items": ["Prophet", "Time series forecasting", "Weather data"]
+      "category": "DevOps & Cloud",
+      "items": ["Docker", "GitHub Actions", "CI/CD", "Kubernetes", "AWS"]
+    },
+    {
+      "category": "Data & ML",
+      "items": ["Prophet", "Time series forecasting", "Pandas"]
     }
   ]
 }
