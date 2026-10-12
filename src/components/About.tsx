@@ -101,7 +101,7 @@ import config from "@/data/config.json";
 const meta = [
   { key: "experience", value: "2+ years" },
   { key: "based_in", value: config.location },
-  { key: "focus", value: "Full-stack + AI/ML" },
+  { key: "focus", value: "Full-Stack + AI Engineer" },
   { key: "currently", value: "Building SlabGuard (FYP)" },
 ];
 
