@@ -1,11 +1,11 @@
 {
   "name": "Zain Ul Abidin",
   "handle": "zain",
-  "title": "Aspiring Full Stack Software Engineer",
+  "title": "Full Stack Software Engineer",
   "location": "Sahiwal, Pakistan",
-  "heroLine": "I build production-grade web applications with Next.js, TypeScript, and PostgreSQL, along with the MERN stack for full-stack JavaScript projects. I'm also working with DevOps — Docker, CI/CD, and cloud deployment.",
+  "heroLine": "I build modern web applications using Next.js, TypeScript, and PostgreSQL, with a strong foundation in the MERN stack. I'm also diving deeper into DevOps and AI integration, building my skills with Docker, Kubernetes, CI/CD, cloud technologies, and Agentic AI.",
   "bio": [
-    "Hi 👋, I'm Zain Ul Abidin, a final-year Computer Science student and full-stack software engineer. I build web applications using Next.js, React, TypeScript, Node.js, MongoDB, and PostgreSQL, with experience in authentication, API development, database design, and deployment.",
+    "Hi 👋, I'm Zain Ul Abidin, a Computer Science student and full-stack software engineer. I build web applications using Next.js, React, TypeScript, Node.js, MongoDB, and PostgreSQL, with experience in authentication, API development, database design, and deployment.",
     "I've built projects including Pulse — a Threads-inspired social platform using Next.js App Router with Clerk authentication, Supabase Storage, and self-referencing Prisma relations. I also built Sahiwal Electronics, a multi-vendor e-commerce platform with buyer/seller/admin roles, real-time chat using Socket.IO, and JWT + Google OAuth. Currently, I'm working on SlabGuard, my Final Year Project that combines the MERN stack with Python, FastAPI, and Prophet (by Meta).",
     "Alongside development, I'm also working with DevOps tools like Docker, GitHub Actions, CI/CD pipelines, and learning Kubernetes. I care about how applications are deployed and maintained, not just how they're built.",
     "Most of my learning comes from building real projects and solving problems along the way. I'm always looking to improve, contribute to useful software, and learn from people with more experience."

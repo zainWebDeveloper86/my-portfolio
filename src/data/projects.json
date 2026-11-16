@@ -3,7 +3,8 @@
     "id": "pulse",
     "title": "Pulse",
     "tag": "Full-stack social platform with real-time interactions",
-    "status": "Next.js · In Progress",
+    "image": "/projects/pulse-cover.png", 
+    "status": "",
     "description": "Pulse is a full-stack social platform inspired by Threads, where users can share short posts, engage in nested conversations, and build communities around shared interests. Built with Next.js 16 App Router, it features real-time updates, secure authentication, and a modern dark-mode-first UI.",
     "role": "I designed and built the entire application — from the database schema and authentication flow to the UI components and production deployment. The project follows a feature-based architecture with Server Actions for mutations, Prisma for type-safe database access, and Clerk for authentication.",
     "tech": [
@@ -38,7 +39,8 @@
     "id": "slabguard",
     "title": "SlabGuard",
     "tag": "AI-powered electricity bill prediction & slab-shock alert system",
-    "status": "MERN Stack \u00b7 In Progress",
+    "image": "/projects/slabguard-cover.png",
+    "status": "",
     "description": "SlabGuard helps Pakistani electricity consumers (MEPCO) avoid unexpected bill spikes caused by the progressive slab tariff system, where crossing a unit threshold retroactively raises the rate on the entire bill \u2014 not just the extra units. It tracks live usage through an IoT data pipeline, forecasts month-end consumption using the Prophet model, and warns users before they cross a slab, quantifying exactly how much a behavior change would save.",
     "role": "I'm building the application with the MERN stack, with a separate Python and FastAPI microservice handling the forecasting layer. The project covers the full flow from ingesting usage data, scraping real billing history, calculating slab-based bills, forecasting future consumption, and presenting everything through a web dashboard.",
     "tech": [
@@ -73,7 +75,8 @@
     "id": "sahiwal-electronics",
     "title": "Sahiwal Electronics",
     "tag": "Multi-vendor e-commerce platform",
-    "status": "MERN Stack \u00b7 Finished",
+    "image": "/projects/sahiwal-cover.png",
+    "status": "",
     "description": "Sahiwal Electronics is a multi-vendor e-commerce platform where sellers can create shops, manage products and orders, and communicate with buyers. Buyers can browse products, manage their cart and wishlist, place orders, and chat with sellers. An admin panel handles users, sellers, products, orders, and withdrawals.",
     "role": "I worked on the application across the frontend and backend, including authentication, role-based access, product management, orders, real-time chat, and deployment.",
     "tech": [
